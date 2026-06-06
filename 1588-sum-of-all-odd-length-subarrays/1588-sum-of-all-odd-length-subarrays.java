@@ -1,14 +1,17 @@
 class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
         int n=arr.length;
-        int total_sum=0;
-        for(int i=0;i<n;i++){
-            int left_choices=i+1;
-            int right_choices=n-i;
-            int total_subarray=left_choices*right_choices;
-            int odd_sub=(total_subarray+1)/2;
-            total_sum+=odd_sub*arr[i];
+        int total=0;
+        int[] prefix=new int[n+1];
+        prefix[0]=0;
+        for(int i=1;i<prefix.length;i++){
+            prefix[i]=prefix[i-1]+arr[i-1];
         }
-        return total_sum;
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j+=2){
+                total+=prefix[j+1]-prefix[i];
+            }
+        }
+        return total;
     }
 }
