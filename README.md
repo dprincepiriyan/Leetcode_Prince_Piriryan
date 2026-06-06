@@ -22,9 +22,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
