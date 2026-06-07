@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 <!---LeetCode Topics End-->
