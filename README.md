@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -77,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 <!---LeetCode Topics End-->
