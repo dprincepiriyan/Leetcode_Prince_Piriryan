@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
