@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
