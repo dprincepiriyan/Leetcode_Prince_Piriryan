@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Design
