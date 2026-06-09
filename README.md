@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -124,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
 <!---LeetCode Topics End-->
