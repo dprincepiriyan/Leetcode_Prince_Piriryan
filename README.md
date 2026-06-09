@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
