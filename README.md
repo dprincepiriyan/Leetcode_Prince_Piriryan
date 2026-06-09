@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
