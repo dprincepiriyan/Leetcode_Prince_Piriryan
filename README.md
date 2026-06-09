@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
