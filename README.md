@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
