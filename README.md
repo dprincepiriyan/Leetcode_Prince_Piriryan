@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2485-find-the-pivot-integer/) | Easy |
