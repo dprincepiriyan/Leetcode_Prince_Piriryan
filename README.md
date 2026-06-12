@@ -18,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Array
@@ -174,4 +176,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
