@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 ## Greedy
@@ -204,4 +207,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
