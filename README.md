@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Backtracking
