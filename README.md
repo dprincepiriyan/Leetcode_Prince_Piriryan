@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
