@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
