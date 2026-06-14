@@ -262,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0178-rank-scores](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->
