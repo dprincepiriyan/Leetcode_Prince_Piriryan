@@ -266,4 +266,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
