@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +261,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
