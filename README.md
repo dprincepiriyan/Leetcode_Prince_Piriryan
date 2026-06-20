@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1840-maximum-building-height/) | Hard |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1840-maximum-building-height](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1840-maximum-building-height/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1094-car-pooling/) | Medium |
+| [1840-maximum-building-height](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1840-maximum-building-height/) | Hard |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
