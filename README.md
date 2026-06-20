@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -272,4 +276,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0180-consecutive-numbers/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
