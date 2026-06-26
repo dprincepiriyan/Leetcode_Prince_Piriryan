@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
