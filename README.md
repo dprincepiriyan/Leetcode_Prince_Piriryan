@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3028-ant-on-the-boundary](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0509-fibonacci-number/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
