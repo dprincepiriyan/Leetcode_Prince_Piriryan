@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Design
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
@@ -285,4 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
