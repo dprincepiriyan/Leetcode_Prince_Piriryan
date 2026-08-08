@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0344-reverse-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -302,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
