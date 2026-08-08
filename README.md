@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -310,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0020-valid-parentheses/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
