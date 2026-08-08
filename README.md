@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
