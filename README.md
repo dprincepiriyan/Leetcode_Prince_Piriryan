@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0070-climbing-stairs/) | Easy |
 | [0326-power-of-three](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0509-fibonacci-number/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/dprincepiriyan/Leetcode_Prince_Piriryan/tree/main/0509-fibonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
